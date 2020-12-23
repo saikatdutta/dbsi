@@ -6,3 +6,9 @@ Runner-up solution at AIM 2019 Challenge on Bokeh Effect Synthesis - Perceptual 
 
 Get the EBB dataset by registering [here](https://competitions.codalab.org/competitions/24716)
 
+<h4> Train-Val split used in paper: </h4>
+
+Train split: train.csv
+
+Validation split (Val294 set): test.csv
+
