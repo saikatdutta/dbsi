@@ -13,3 +13,5 @@ Train split: train.csv
 Validation split (Val294 set): test.csv
 
 :information_source: Repo under construction.
+
+Contact me via mail if you need generated results.
