@@ -17,7 +17,8 @@ Validation split (Val294 set): test.csv
 
 :information_source: Repo under construction.
 
-<h4> Some references for implementation </h4>
+<h4> Some references for implementation: </h4>
+
 1. [MegaDepth](https://github.com/zhengqili/MegaDepth/blob/master/pytorch_DIW_scratch.py)
 
 2. [Gaussian Smoothing](https://discuss.pytorch.org/t/is-there-anyway-to-do-gaussian-filtering-for-an-image-2d-3d-in-pytorch/12351/13)
