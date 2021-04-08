@@ -16,3 +16,8 @@ Train split: train.csv
 Validation split (Val294 set): test.csv
 
 :information_source: Repo under construction.
+
+<h4> Some references for implementation </h4>
+1. [MegaDepth](https://github.com/zhengqili/MegaDepth/blob/master/pytorch_DIW_scratch.py)
+2. [Gaussian Smoothing](https://discuss.pytorch.org/t/is-there-anyway-to-do-gaussian-filtering-for-an-image-2d-3d-in-pytorch/12351/13)
+3. [SSIM loss](https://github.com/Po-Hsun-Su/pytorch-ssim) 
