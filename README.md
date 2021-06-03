@@ -17,6 +17,10 @@ Validation split (Val294 set): test.csv
 
 :information_source: Repo under construction.
 
+<h4> :sparkles: Check our new work on Bokeh rendering: </h4> 
+
+[GitHub Page](https://github.com/saikatdutta/Stacked_DMSHN_bokeh) 
+
 <h4> Some references for implementation: </h4>
 
 1. [MegaDepth](https://github.com/zhengqili/MegaDepth/blob/master/pytorch_DIW_scratch.py)
